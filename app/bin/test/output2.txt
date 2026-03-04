@@ -1,0 +1,392 @@
+Is Player A a human or computer? (h/c)
+Is Player B a human or computer? (h/c)
+Player A missed at A0
+Player B missed at A0
+Player A used a special action
+Player B used a special action
+Player A missed at A1
+Player B missed at A1
+Player A used a special action
+Player B used a special action
+Player A missed at A2
+Player B missed at A2
+Player A hit your Destroyer at A3
+Player B hit your Destroyer at A3
+Player A hit your Destroyer at A4
+Player B hit your Destroyer at A4
+Player A hit your Destroyer at A5
+Player B hit your Destroyer at A5
+Player A used a special action
+Player B used a special action
+Player A missed at A6
+Player B missed at A6
+Player A missed at A7
+Player B missed at A7
+Player A missed at A8
+Player B missed at A8
+Player A missed at A9
+Player B missed at A9
+Player A missed at B0
+Player B missed at B0
+Player A used a special action
+Player B used a special action
+Player A hit your Destroyer at B1
+Player B hit your Destroyer at B1
+Player A used a special action
+Player B used a special action
+Player A missed at B2
+Player B missed at B2
+Player A used a special action
+Player B used a special action
+Player A missed at B3
+Player B missed at B3
+Player A missed at B4
+Player B missed at B4
+Player A missed at B5
+Player B missed at B5
+Player A missed at B6
+Player B missed at B6
+Player A missed at B7
+Player B missed at B7
+Player A hit your Submarine at B8
+Player B hit your Submarine at B8
+Player A hit your Submarine at B9
+Player B hit your Submarine at B9
+Player A hit your Carrier at C0
+Player B hit your Carrier at C0
+Player A missed at C1
+Player B missed at C1
+Player A missed at C2
+Player B missed at C2
+Player A missed at C3
+Player B missed at C3
+Player A missed at C4
+Player B missed at C4
+Player A missed at C5
+Player B missed at C5
+Player A missed at C6
+Player B missed at C6
+Player A missed at C7
+Player B missed at C7
+Player A missed at C8
+Player B missed at C8
+Player A missed at C9
+Player B missed at C9
+Player A hit your Carrier at D0
+Player B hit your Carrier at D0
+Player A missed at D1
+Player B missed at D1
+Player A missed at D2
+Player B missed at D2
+Player A missed at D3
+Player B missed at D3
+Player A hit your Battleship at D4
+Player B hit your Battleship at D4
+Player A missed at D5
+Player B missed at D5
+Player A missed at D6
+Player B missed at D6
+Player A hit your Carrier at D7
+Player B hit your Carrier at D7
+Player A missed at D8
+Player B missed at D8
+Player A missed at D9
+Player B missed at D9
+Player A hit your Carrier at E0
+Player B hit your Carrier at E0
+Player A hit your Carrier at E1
+Player B hit your Carrier at E1
+Player A missed at E2
+Player B missed at E2
+Player A hit your Battleship at E3
+Player B hit your Battleship at E3
+Player A hit your Battleship at E4
+Player B hit your Battleship at E4
+Player A hit your Battleship at E5
+Player B hit your Battleship at E5
+Player A missed at E6
+Player B missed at E6
+Player A hit your Carrier at E7
+Player B hit your Carrier at E7
+Player A hit your Carrier at E8
+Player B hit your Carrier at E8
+Player A missed at E9
+Player B missed at E9
+Player A hit your Carrier at F0
+Player B hit your Carrier at F0
+Player A hit your Carrier at F1
+Player B hit your Carrier at F1
+Player A missed at F2
+Player B missed at F2
+Player A missed at F3
+Player B missed at F3
+Player A missed at F4
+Player B missed at F4
+Player A hit your Battleship at F5
+Player B hit your Battleship at F5
+Player A missed at F6
+Player B missed at F6
+Player A hit your Carrier at F7
+Player B hit your Carrier at F7
+Player A hit your Carrier at F8
+Player B hit your Carrier at F8
+Player A missed at F9
+Player B missed at F9
+Player A missed at G0
+Player B missed at G0
+Player A hit your Carrier at G1
+Player B hit your Carrier at G1
+Player A missed at G2
+Player B missed at G2
+Player A missed at G3
+Player B missed at G3
+Player A hit your Battleship at G4
+Player B hit your Battleship at G4
+Player A hit your Battleship at G5
+Player B hit your Battleship at G5
+Player A missed at G6
+Player B missed at G6
+Player A missed at G7
+Player B missed at G7
+Player A hit your Carrier at G8
+Player B hit your Carrier at G8
+Player A missed at G9
+Player B missed at G9
+Player A missed at H0
+Player B missed at H0
+Player A missed at H1
+Player B missed at H1
+Player A missed at H2
+Player B missed at H2
+Player A missed at H3
+Player B missed at H3
+Player A missed at H4
+Player B missed at H4
+Player A hit your Battleship at H5
+Player B hit your Battleship at H5
+Player A missed at H6
+Player B missed at H6
+Player A missed at H7
+Player B missed at H7
+Player A hit your Carrier at H8
+Player B hit your Carrier at H8
+Player A missed at H9
+Player B missed at H9
+Player A missed at I0
+Player B missed at I0
+Player A missed at I1
+Player B missed at I1
+Player A missed at I2
+Player B missed at I2
+Player A missed at I3
+Player B missed at I3
+Player A missed at I4
+Player B missed at I4
+Player A missed at I5
+Player B missed at I5
+Player A missed at I6
+Player B missed at I6
+Player A missed at I7
+Player B missed at I7
+Player A missed at I8
+Player B missed at I8
+Player A missed at I9
+Player B missed at I9
+Player A hit your Destroyer at J0
+Player B hit your Destroyer at J0
+Player A hit your Destroyer at J1
+Player B hit your Destroyer at J1
+Player A hit your Destroyer at J2
+Player B hit your Destroyer at J2
+Player A missed at J3
+Player B missed at J3
+Player A missed at J4
+Player B missed at J4
+Player A missed at J5
+Player B missed at J5
+Player A missed at J6
+Player B missed at J6
+Player A missed at J7
+Player B missed at J7
+Player A missed at J8
+Player B missed at J8
+Player A missed at J9
+Player B missed at J9
+Player A missed at K0
+Player B missed at K0
+Player A missed at K1
+Player B missed at K1
+Player A missed at K2
+Player B missed at K2
+Player A missed at K3
+Player B missed at K3
+Player A missed at K4
+Player B missed at K4
+Player A missed at K5
+Player B missed at K5
+Player A missed at K6
+Player B missed at K6
+Player A missed at K7
+Player B missed at K7
+Player A missed at K8
+Player B missed at K8
+Player A missed at K9
+Player B missed at K9
+Player A missed at L0
+Player B missed at L0
+Player A missed at L1
+Player B missed at L1
+Player A missed at L2
+Player B missed at L2
+Player A hit your Destroyer at L3
+Player B hit your Destroyer at L3
+Player A missed at L4
+Player B missed at L4
+Player A missed at L5
+Player B missed at L5
+Player A hit your Destroyer at L6
+Player B hit your Destroyer at L6
+Player A missed at L7
+Player B missed at L7
+Player A missed at L8
+Player B missed at L8
+Player A missed at L9
+Player B missed at L9
+Player A missed at M0
+Player B missed at M0
+Player A missed at M1
+Player B missed at M1
+Player A missed at M2
+Player B missed at M2
+Player A hit your Destroyer at M3
+Player B hit your Destroyer at M3
+Player A missed at M4
+Player B missed at M4
+Player A missed at M5
+Player B missed at M5
+Player A hit your Destroyer at M6
+Player B hit your Destroyer at M6
+Player A missed at M7
+Player B missed at M7
+Player A missed at M8
+Player B missed at M8
+Player A missed at M9
+Player B missed at M9
+Player A missed at N0
+Player B missed at N0
+Player A missed at N1
+Player B missed at N1
+Player A missed at N2
+Player B missed at N2
+Player A hit your Destroyer at N3
+Player B hit your Destroyer at N3
+Player A missed at N4
+Player B missed at N4
+Player A missed at N5
+Player B missed at N5
+Player A hit your Destroyer at N6
+Player B hit your Destroyer at N6
+Player A missed at N7
+Player B missed at N7
+Player A missed at N8
+Player B missed at N8
+Player A missed at N9
+Player B missed at N9
+Player A missed at O0
+Player B missed at O0
+Player A missed at O1
+Player B missed at O1
+Player A missed at O2
+Player B missed at O2
+Player A missed at O3
+Player B missed at O3
+Player A missed at O4
+Player B missed at O4
+Player A missed at O5
+Player B missed at O5
+Player A missed at O6
+Player B missed at O6
+Player A missed at O7
+Player B missed at O7
+Player A missed at O8
+Player B missed at O8
+Player A missed at O9
+Player B missed at O9
+Player A missed at P0
+Player B missed at P0
+Player A missed at P1
+Player B missed at P1
+Player A missed at P2
+Player B missed at P2
+Player A missed at P3
+Player B missed at P3
+Player A missed at P4
+Player B missed at P4
+Player A missed at P5
+Player B missed at P5
+Player A missed at P6
+Player B missed at P6
+Player A missed at P7
+Player B missed at P7
+Player A missed at P8
+Player B missed at P8
+Player A missed at P9
+Player B missed at P9
+Player A missed at Q0
+Player B missed at Q0
+Player A missed at Q1
+Player B missed at Q1
+Player A hit your Submarine at Q2
+Player B hit your Submarine at Q2
+Player A hit your Submarine at Q3
+Player B hit your Submarine at Q3
+Player A missed at Q4
+Player B missed at Q4
+Player A missed at Q5
+Player B missed at Q5
+Player A missed at Q6
+Player B missed at Q6
+Player A missed at Q7
+Player B missed at Q7
+Player A hit your Battleship at Q8
+Player B hit your Battleship at Q8
+Player A missed at Q9
+Player B missed at Q9
+Player A missed at R0
+Player B missed at R0
+Player A missed at R1
+Player B missed at R1
+Player A missed at R2
+Player B missed at R2
+Player A missed at R3
+Player B missed at R3
+Player A missed at R4
+Player B missed at R4
+Player A missed at R5
+Player B missed at R5
+Player A missed at R6
+Player B missed at R6
+Player A hit your Battleship at R7
+Player B hit your Battleship at R7
+Player A hit your Battleship at R8
+Player B hit your Battleship at R8
+Player A missed at R9
+Player B missed at R9
+Player A missed at S0
+Player B missed at S0
+Player A missed at S1
+Player B missed at S1
+Player A missed at S2
+Player B missed at S2
+Player A missed at S3
+Player B missed at S3
+Player A missed at S4
+Player B missed at S4
+Player A missed at S5
+Player B missed at S5
+Player A missed at S6
+Player B missed at S6
+Player A missed at S7
+Player B missed at S7
+Player A hit your Battleship at S8
+PLAYER A WINS THE GAME!!!
